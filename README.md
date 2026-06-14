@@ -70,7 +70,7 @@ heart-disease-predictor/
 ### 1. Clone / Download
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/heart-disease-predictor.git
+git clone https://github.com/tanuja0708/heart-disease-predictor.git
 cd heart-disease-predictor
 ```
 
@@ -200,14 +200,3 @@ All **100% free and open source.**
 - [ ] Add LIME for per-prediction explanations
 
 ---
-
-## 📄 License
-
-MIT — free to use, modify, and distribute.
-
----
-
-## 👤 Author
-
-Built for the **Amazon ML Scholars** program portfolio.
-Demonstrates end-to-end ML skills: data engineering → modelling → evaluation → deployment.

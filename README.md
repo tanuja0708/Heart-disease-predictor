@@ -70,7 +70,7 @@ heart-disease-predictor/
 ### 1. Clone / Download
 
 ```bash
-git clone https://github.com/tanuja0708/heart-disease-predictor.git
+git clone https://github.com/tanuja0708/Heart-disease-predictor.git
 cd heart-disease-predictor
 ```
 

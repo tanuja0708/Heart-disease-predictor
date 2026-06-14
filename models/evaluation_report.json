@@ -1,0 +1,36 @@
+{
+  "best_model": "XGBoost",
+  "cv_auc_scores": {
+    "Logistic Regression": 0.9052,
+    "Random Forest": 0.9314,
+    "XGBoost": 0.9369
+  },
+  "test_accuracy": 0.9535,
+  "test_roc_auc": 0.9751,
+  "confusion_matrix": [
+    [
+      25,
+      1
+    ],
+    [
+      1,
+      16
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n  No Disease       0.96      0.96      0.96        26\n     Disease       0.94      0.94      0.94        17\n\n    accuracy                           0.95        43\n   macro avg       0.95      0.95      0.95        43\nweighted avg       0.95      0.95      0.95        43\n",
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ]
+}
